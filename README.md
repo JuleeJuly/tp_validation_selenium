@@ -1,1 +1,2 @@
-# tp_validation_selenium
+# formation_selenium_tp
+Tp selenium formation testeur logiciel
